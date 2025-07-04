@@ -1,2 +1,1 @@
-# ecommerce-inventory-project-
-A vanilla JavaScript-based multi-vendor e-commerce inventory system with EmailJS stock alert notifications.
+A React-based inventory management system for e-commerce products with add/delete functionality and dynamic UI using useState.
